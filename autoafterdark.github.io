@@ -1,6 +1,10 @@
 # Compiled source #
 ###################
 *.com
+autoafterdark.*
+*.onmicrosoft.com
+.org
+z.net
 *.class
 *.dll
 *.exe
@@ -22,9 +26,9 @@
 
 # Logs and databases #
 ######################
-*.log
-*.sql
-*.sqlite
+.log
+.sql
+.sqlite
 
 # OS generated files #
 ######################
@@ -32,6 +36,6 @@
 .DS_Store?
 ._*
 .Spotlight-V100
-.Trashes
+*.Trashes
 ehthumbs.db
 Thumbs.db
