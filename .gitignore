@@ -29,9 +29,8 @@
 # OS generated files #
 ######################
 .DS_Store
-.DS_Store?
-._*
+._
 .Spotlight-V100
-.Trashes
+.html
+*.xml
 ehthumbs.db
-Thumbs.db
